@@ -181,3 +181,5 @@ To show GREEN:
 | Cookie Theft         | Token in localStorage           | `httpOnly`, `secure`, `sameSite` cookie  |
 | CSRF                 | No protection                   | `sameSite: "Strict"` cookie              |
 | Missing Headers      | No security headers             | `helmet()` adds CSP, X-Frame, etc.       |
+
+Feature: about section added
